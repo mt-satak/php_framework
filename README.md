@@ -1,3 +1,12 @@
+# 参考文献
+パーフェクトPHP 初版第7刷
+https://gihyo.jp/book/2010/978-4-7741-4437-5
+
+# 環境構築参照元
+DockerでLAMP環境を構築する
+https://blog.k-bushi.com/post/tech/container/docker-lamp/
+https://github.com/katsuobushiFPGA/docker-lamp
+
 ## 概要
 Apache2.4 + PHP7.3 + MySQL8.0 の環境を構築します。
 
