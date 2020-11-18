@@ -2,4 +2,4 @@
 db/data/*
 
 !web/project/.gitkeep
-web/project/*
+#web/project/*
